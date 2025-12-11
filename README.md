@@ -1,0 +1,2 @@
+# Machine-Learning-Based-Prediction-of-Coastal-Total-Water-Levels-for-Coastal-Flood-Assessment
+This repository contains MATLAB code for predicting coastal Total Water Levels (TWL) using Bidirectional Long Short-Term Memory (BiLSTM) neural networks. The project applies sequence-learning models to improve nuisance flood prediction by capturing nonlinear interactions between tide and non-tidal residuals, using Panama , Florida as a case study.
